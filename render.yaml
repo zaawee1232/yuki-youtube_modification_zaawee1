@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: yuki-youtube-slim-modification_ztttas1
+    name: yuki-youtube-slim-modification_zaawee1
     env: python
     region: Oregon
     plan: free

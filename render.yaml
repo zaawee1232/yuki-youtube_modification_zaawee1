@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: zaa-wee-yuki
+    name: y-k-z
     env: python
     region: Oregon
     plan: free

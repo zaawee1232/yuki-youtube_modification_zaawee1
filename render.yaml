@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: y-k-z
+    name: yuki-xmas-slim-kasosuta
     env: python
     region: Oregon
     plan: free
